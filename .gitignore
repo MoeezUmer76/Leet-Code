@@ -1,9 +1,0 @@
-# Ignore everything
-*
-
-# Allow folders
-!*/
-
-# Allow .cpp and .h files
-!*.cpp
-!*.h
