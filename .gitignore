@@ -1,11 +1,6 @@
-# Visual Studio temporary files
-.vs/
-*.user
-*.suo
-*.VC.db
-*.opendb
-*.log
-*.cache
-Debug/
-Release/
-x64/
+# Ignore everything
+*
+
+# But not these:
+!*.cpp
+!*.h
