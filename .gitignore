@@ -1,6 +1,9 @@
 # Ignore everything
 *
 
-# But not these:
+# Allow folders
+!*/
+
+# Allow .cpp and .h files
 !*.cpp
 !*.h
