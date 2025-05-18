@@ -23,9 +23,4 @@
       <UniqueIdentifier>{e1a41ddc-10d1-43a8-9f1c-8d0c0d2ae0eb}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="main1.cpp">
-      <Filter>Easy</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>
