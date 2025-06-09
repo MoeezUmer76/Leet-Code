@@ -1,6 +1,6 @@
 # 🧠 LeetCode Solutions
 
-A collection of my LeetCode solutions in Python and C++ with brief explanations.  
+A collection of my LeetCode solutions in  C++.  
 Tracking my progress and sharpening problem-solving skills through daily practice.
 <br><br>
 ## 📂 Structure
@@ -11,8 +11,7 @@ Tracking my progress and sharpening problem-solving skills through daily practic
 <br><br>
 Each file contains: <br>
 - Problem title <br>
-- LeetCode link <br>
-- Solution code with inline explanation (if needed)
+- Solution code 
 <br><br>
 ---
 <br><br>
